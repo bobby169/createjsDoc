@@ -1,2 +1,14 @@
-# createjsDoc
-createjs source code analysis
+## createjs记录
+1. [DisplayObject](https://github.com/bobby169/createjsDoc/wiki/DisplayObject)
+2. [Container](https://github.com/bobby169/createjsDoc/wiki/Container)
+3. [Stage](https://github.com/bobby169/createjsDoc/wiki/Stage)
+4. [tick&draw](https://github.com/bobby169/createjsDoc/wiki/tick&draw)
+5. [Ticker](https://github.com/bobby169/createjsDoc/wiki/Ticker)
+6. [Graphics](https://github.com/bobby169/createjsDoc/wiki/Graphics)
+7. [Matrix2D](https://github.com/bobby169/createjsDoc/wiki/Matrix2D)
+8. [MouseEvent_ stageX_ rawX_localX](https://github.com/bobby169/createjsDoc/wiki/MouseEvent_-stageX_-rawX_localX)
+9. [MovieClip](https://github.com/bobby169/createjsDoc/wiki/MovieClip)
+10. [SpriteSheet](https://github.com/bobby169/createjsDoc/wiki/SpriteSheet)
+11. [《HTML5 Canvas》笔记](https://github.com/bobby169/createjsDoc/wiki/%E3%80%8AHTML5-Canvas%E3%80%8B%E7%AC%94%E8%AE%B0)
+12. [原生canvas](https://github.com/bobby169/createjsDoc/wiki/%E5%8E%9F%E7%94%9Fcanvas)
+13. [PreloadJS](https://github.com/bobby169/createjsDoc/wiki/PreloadJS)
